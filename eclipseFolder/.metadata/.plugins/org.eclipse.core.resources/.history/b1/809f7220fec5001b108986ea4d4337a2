@@ -1,0 +1,214 @@
+package DnD.Combat;
+
+import java.util.ArrayList;
+
+import javafx.geometry.Pos;
+import javafx.scene.Cursor;
+import javafx.scene.control.Label;
+import javafx.scene.control.TextField;
+import javafx.scene.layout.GridPane;
+import javafx.scene.layout.StackPane;
+import javafx.scene.paint.Color;
+import javafx.scene.shape.Circle;
+import javafx.scene.shape.Rectangle;
+
+public class Personnage extends GridPane implements Comparable<Personnage>{
+	
+	private String np;
+	private int stats[];
+	TextField iniField;
+	
+	private ArrayList<StackPane> panes;
+	
+	private Rectangle hoverInfo;
+	private Circle hoverDel,hoverEdit;
+	
+	private boolean faction,disabled=false;
+	
+	private Color hover,fill=Color.LIGHTGREY;
+	
+	public Personnage (String pn, int c, int pv, boolean f) {
+		super();
+		faction = f;
+		stats = new int[3];
+		np = pn; //Prenom Nom
+
+		stats[0] = c;//armure
+		stats[1] = pv;//point de vie
+		stats[2] = -1;//initiative
+		
+		panes = new ArrayList<StackPane>();
+		StackPane info = new StackPane();
+		panes.add(info);
+		GridPane grille = new GridPane();
+		
+		Label displayL = new Label(np+"; CA:"+stats[0]+"; PV: "+stats[1]+"; Ini :");
+		iniField = new TextField();
+		iniField.setMaxWidth(50);
+		iniField.setMinWidth(20);
+		grille.add(displayL, 0, 0);
+		grille.add(iniField, 1, 0);
+		grille.setAlignment(Pos.CENTER);
+		
+		Rectangle infoR = new Rectangle(250, 36,fill);
+		hoverInfo = new Rectangle(252, 38,fill);
+		
+		Circle delC = new Circle(11,fill);
+		hoverDel = new Circle(12,fill);
+		
+		Circle editC = new Circle(10,fill);
+		hoverEdit = new Circle(11,fill);
+		
+		StackPane del = new StackPane();
+		panes.add(del);
+		StackPane edit = new StackPane();
+		panes.add(edit);
+		
+		del.getChildren().addAll(hoverDel,delC,new Label("X"));
+		edit.getChildren().addAll(hoverEdit,editC,new Label("E"));
+		info.getChildren().addAll(hoverInfo,infoR,grille);
+		
+		del.setAlignment(Pos.CENTER);
+		edit.setAlignment(Pos.CENTER);
+		info.setAlignment(Pos.CENTER);
+		
+		info.setOnMouseEntered( event ->  {
+			info.setCursor(Cursor.HAND);
+		});
+		info.setOnDragExited( event ->  {
+			info.setCursor(Cursor.DEFAULT);
+		});
+		
+		info.setMaxSize(253, 35);
+		add(del,0,0);
+		add(edit,1,0);
+		add(info,2,0);
+		setHgap(15);
+		setAlignment(Pos.CENTER);
+		
+		init();
+
+		infoR.setFill(fill);
+		hoverInfo.setFill(fill);
+
+	}
+
+	private void init() {
+		
+		initColor(true);
+
+		for(int i=0;i<panes.size();i++)
+			hoverEcouteur(panes.get(i),i==0);
+
+	}
+
+	private void initColor(boolean b) {
+		if(b)
+			if(faction) {
+				fill = Color.web("#66ff99");
+				hover = Color.web("#006600");
+			}
+			else {
+				fill = Color.web("#FF6699");
+				hover = Color.web("#cc0000");
+			}
+		else
+			fill = Color.LIGHTGREY;
+			hover = Color.GREY;
+		
+	}
+	
+	private void changeHover(boolean b,StackPane p,boolean b2) {
+		Color c;
+		
+		if(b2)
+			if(!b)
+				c = fill;
+			else
+				c = hover;
+		else
+			if(!b)
+				c = Color.LIGHTGREY;
+			else
+				c = Color.GREY;
+		if(b2)
+			((Rectangle) p.getChildren().get(0)).setFill(c);
+		else
+			((Circle) p.getChildren().get(0)).setFill(c);
+	}
+	
+	public int getIni() {
+		stats[2] = 0;
+		if (App.isNumeric(iniField.getText()))
+			stats[2] =Integer.parseInt(iniField.getText());
+		else
+			iniField.setText("0");
+
+		return stats[2];
+	}
+	
+	public void setIni(int ini) {
+		this.stats[2] = ini;
+	}
+
+	public boolean getDisabled() {
+		return disabled;
+	}
+	
+	@Override
+	public int compareTo(Personnage p) {
+		return compare(getIni(),p.getIni());
+	}
+	
+	private int compare(int i1, int i2) {
+		return i1 > i2 ? -1 : 1;
+	}
+	
+	private void hoverEcouteur(StackPane p,boolean b) {
+		p.setOnMouseExited( event ->  {
+			changeHover(false,p,b);
+		});
+		
+		p.setOnMouseEntered( event ->  {
+			changeHover(true,p,b);
+		});
+	}
+	
+	public void disableHover() {
+		initColor(disabled);
+		disabled =! disabled;
+		
+		StackPane p = panes.get(0);
+		
+		((Rectangle) p.getChildren().get(0)).setFill(hover);
+		((Rectangle) p.getChildren().get(1)).setFill(fill);
+	}
+
+	public StackPane getDel() {
+		return panes.get(1);
+	}
+	
+	public StackPane getInfoPane() {
+		return panes.get(0);
+	}
+	
+	public StackPane getEdit() {
+		return panes.get(2);
+	}
+	public boolean getFaction() {
+		return faction;
+	}
+	
+	public String getPN() {
+		return np;
+	}
+	
+	public int getCA() {
+		return stats[0];
+	}
+	
+	public int getPV() {
+		return stats[1];
+	}
+	
+}

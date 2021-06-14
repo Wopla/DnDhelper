@@ -1,0 +1,91 @@
+package testDraggableList;
+
+import javafx.application.Application;
+import javafx.event.EventHandler;
+import javafx.geometry.Pos;
+import javafx.scene.Scene;
+import javafx.scene.control.ScrollPane;
+import javafx.scene.input.ClipboardContent;
+import javafx.scene.input.DataFormat;
+import javafx.scene.input.DragEvent;
+import javafx.scene.input.Dragboard;
+import javafx.scene.input.MouseEvent;
+import javafx.scene.input.TransferMode;
+import javafx.scene.layout.StackPane;
+import javafx.scene.shape.Circle;
+import javafx.stage.Stage;
+
+public class DragTestClass extends Application{
+
+    public static void problem(Circle circle, ScrollPane scrollPane, StackPane pane, DataFormat dataFormat){
+        circle.setOnDragDetected(new EventHandler<MouseEvent>() {
+                @Override
+                public void handle(MouseEvent event) {
+                    Dragboard db = circle.startDragAndDrop(TransferMode.ANY);
+                    ClipboardContent content = new ClipboardContent();
+                    content.put(dataFormat,0); // normally, ID of node
+                    db.setContent(content);
+                    event.consume();
+                }
+            });
+
+        scrollPane.setOnDragDropped(new EventHandler<DragEvent>() {
+                @Override
+                public void handle(DragEvent event) {
+                    Dragboard db = event.getDragboard();
+                    if(db.hasContent(dataFormat) && db.getContent(dataFormat) instanceof Integer){
+                        int index = (Integer) db.getContent(dataFormat);
+                        Circle node = (Circle) pane.getChildren().get(index);
+                        node.setManaged(false);
+                        // this is the problematic part
+                        node.setTranslateX(event.getX() - node.getCenterX());
+                        node.setTranslateY(event.getY() - node.getCenterY());
+
+                        node.setTranslateX(event.getX() - node.getCenterX());
+                        node.setTranslateY(event.getY() - node.getCenterY());
+                        
+                        event.setDropCompleted(true);
+                        event.consume();
+                    }
+                }
+        });
+
+        scrollPane.setOnDragOver(new EventHandler<DragEvent>() {
+            public void handle(DragEvent event) {
+                event.acceptTransferModes(TransferMode.ANY);
+                event.consume();
+            }
+        });
+    }
+
+    @Override
+    public void start(Stage primaryStage) throws Exception {
+
+        ScrollPane scrollPane = new ScrollPane();
+        StackPane pane = new StackPane();
+        DataFormat dataFormat = new DataFormat("DragDropFormat");
+        int width = 1000;
+        int height = 1000;
+        pane.setMinHeight(height);
+        pane.setMaxHeight(height);
+        pane.setMinWidth(width);
+        pane.setMaxWidth(width);
+        Circle circle = new Circle(50,50,20); // normally a StackPane
+        circle.setManaged(false);
+        pane.getChildren().add(circle);
+        pane.setAlignment(Pos.TOP_LEFT);
+        scrollPane.setContent(pane);
+
+        problem(circle, scrollPane, pane, dataFormat);
+
+        Scene scene = new Scene(scrollPane, 400, 400);
+        primaryStage.setTitle("Problem");
+        primaryStage.setScene(scene);
+        primaryStage.show();
+    }
+
+    public static void main(String[] args) {
+        launch(args);
+    }
+
+}
