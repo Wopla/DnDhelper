@@ -1,3 +1,34 @@
 1623677500182	Delete element
 1623677603359	Delete element
 1623677622262	Rename resource 'trashRouge.png'
+1623751340972	Copy compilation unit
+1623751348430	Delete element
+1624004866117	Rename package 'DnD.Combat'
+1624004906703	Rename package 'DnDApp'
+1624005679972	Rename type 'Personnage'
+1624007274738	Rename type 'Element'
+1624023330244	Move compilation unit
+1624027758186	Rename type 'LignePerso'
+1624028789720	Rename type 'SavePerso'
+1624033571347	Rename resource 'save.txt'
+1624036602566	Infer generic type arguments
+1624051621883	Delete element
+1624052457570	Delete element
+1624061578912	Rename package 'dnDApp'
+1624061622560	Rename package 'dnDApp.elements'
+1624061635612	Rename package 'dnDApp.popUp'
+1624061655345	Rename package 'a'
+1624062068686	Copy compilation units
+1624062078537	Copy packages
+1624062089532	Delete element
+1624062094558	Delete element
+1624062111798	Copy package
+1624062124787	Copy package
+1624062133091	Delete element
+1624062145323	Copy package
+1624062156087	Copy package
+1624062168230	Copy compilation units
+1624062176445	Delete element
+1624062247317	Move compilation units
+1624062262299	Rename package 'elements'
+1624062279299	Rename package 'popUp'
