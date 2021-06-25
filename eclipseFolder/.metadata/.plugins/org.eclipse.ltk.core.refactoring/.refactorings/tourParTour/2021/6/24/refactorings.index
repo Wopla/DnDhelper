@@ -32,3 +32,18 @@
 1624062247317	Move compilation units
 1624062262299	Rename package 'elements'
 1624062279299	Rename package 'popUp'
+1624064293513	Rename type 'App'
+1624064371409	Rename type 'DelButton'
+1624064378725	Rename type 'DelButtona'
+1624064396785	Rename type 'ElementWrapper'
+1624064407889	Rename type 'ElementWrappera'
+1624064431490	Rename type 'SaveListPerso'
+1624064438855	Rename type 'Personnage'
+1624064446703	Rename type 'SaveListPersoa'
+1624064453977	Rename type 'Personnagea'
+1624064504159	Rename type 'SavePerso'
+1624064510323	Rename type 'SavePersoa'
+1624111805986	Rename package 'ressource'
+1624123485581	Move files
+1624123489403	Delete element
+1624124291876	Delete element

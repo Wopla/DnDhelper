@@ -16,8 +16,8 @@ public class EditButton extends ElementWrapper{
 		
 		Circle editC = new Circle(11,fill);
 		hoverEdit = new Circle(12,fill);
-		
-        ImageView logoEdit = new ImageView(new Image("ressource/edit.png"));
+
+        ImageView logoEdit = new ImageView(new Image(getClass().getResource("/edit.png").toString()));
         logoEdit.setFitWidth(16);
         logoEdit.setFitHeight(16);
         

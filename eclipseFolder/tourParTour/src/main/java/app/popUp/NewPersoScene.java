@@ -1,6 +1,6 @@
 package app.popUp;
 
-import app.App;
+import app.FxMain;
 import app.Personnage;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -16,14 +16,14 @@ import javafx.stage.Stage;
 
 public class NewPersoScene extends Stage{
 	
-	private App main;
+	private FxMain main;
 	private TextField[] input;
 	private GridPane grille;
 	private Button btn;
 	private boolean faction,edit=false;
 	private int ordre;
 	private int ini;
-	public NewPersoScene(App m,Personnage p, int o) {
+	public NewPersoScene(FxMain m,Personnage p, int o) {
 		edit = true;
 		main =m;
 		ordre = o;
@@ -34,7 +34,7 @@ public class NewPersoScene extends Stage{
         ini =p.getIni();
 	}
 	
-    public NewPersoScene(App m) {
+    public NewPersoScene(FxMain m) {
     	edit = false;
     	main =m;
         init();
@@ -87,7 +87,7 @@ public class NewPersoScene extends Stage{
         grilleWrap.setVgap(5);
         
         setScene(new Scene(grilleWrap, 300, 250));
-        Image logo = new Image("ressource/DnD_logo.jpg");
+        Image logo = new Image(getClass().getResource("/DnD_logo.jpg").toString());
         getIcons().add(logo);
     }
     
@@ -109,7 +109,7 @@ public class NewPersoScene extends Stage{
     }
     
     private int val(String s) {
-    	return App.isNumeric(s) ? Integer.parseInt(s) : 0;
+    	return FxMain.isNumeric(s) ? Integer.parseInt(s) : 0;
     }
     
     private EventHandler<ActionEvent> nps(){

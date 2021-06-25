@@ -17,8 +17,7 @@ public class DelButton extends ElementWrapper implements java.io.Serializable{
 		
 		Circle delC = new Circle(11,fill);
 		hoverDel = new Circle(12,fill);
-		
-        ImageView logoDel = new ImageView(new Image("ressource/trash.png"));
+        ImageView logoDel = new ImageView(new Image(getClass().getResource("/trash.png").toString()));
         logoDel.setFitWidth(28);
         logoDel.setFitHeight(28);
 		

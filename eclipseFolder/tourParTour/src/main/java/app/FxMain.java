@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.net.URISyntaxException;
@@ -36,7 +37,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.TextAlignment;
 import javafx.stage.Stage;
  
-public class App extends Application {
+public class FxMain extends Application {
 	
     private DataFormat dataFormat;
 	private List<Personnage> listPerso;
@@ -142,7 +143,7 @@ public class App extends Application {
         		s.setCursor(Cursor.DEFAULT);
         });
         
-        Image logo = new Image("ressource/DnD_logo.jpg");
+        Image logo = new Image(getClass().getResource("/DnD_logo.jpg").toString());
         
         primaryStage.getIcons().add(logo);
         primaryStage.setScene(s);
@@ -159,8 +160,6 @@ public class App extends Application {
         //listSavedPerso = null;
         
         lireSave();
-        
-        System.out.println("au read de actuMenuBar");
         //System.out.println(listSavedPerso);
         if(listSavedPerso!=null)
         	for(String s: listSavedPerso.getSaves())
@@ -205,33 +204,34 @@ public class App extends Application {
 	}
 	
 	private void lireSave() {
-		 try {
-	        	File file = new File(this.getClass().getResource("/ressource/save.ser").toURI());
-	        	FileInputStream fileIn = new FileInputStream(file);
-	        	if(fileIn.available()!=0) {
-		        	ObjectInputStream in = new ObjectInputStream(fileIn);
-		        	SaveListPerso list = (SaveListPerso) in.readObject();
-		        	if(list==null)
-		        		System.out.println("LISTE EST NULLE");
-		        	listSavedPerso = list;
-		        	in.close();
-	        	}
+		try {
+			File file = new File("save.ser");
+			FileInputStream fileIn = new FileInputStream(file);
+
+			 if(fileIn.available()!=0) {
+				 ObjectInputStream in = new ObjectInputStream(fileIn);
+				 SaveListPerso list = (SaveListPerso) in.readObject();
+				 if(list==null)
+					 System.out.println("LISTE EST NULLE");
+				 listSavedPerso = list;
+				 in.close();
+			}
 	        	fileIn.close();
-	        }catch(IOException | URISyntaxException | ClassNotFoundException i) {
-	           i.printStackTrace();
+	        }catch(IOException | ClassNotFoundException  i) {
+	        	i.printStackTrace();
 	        }
 	}
 	
 	private void ecrireSave() {
 		try {
-         	File file = new File(this.getClass().getResource("/ressource/save.ser").toURI());
+         	File file = new File("save.ser");
          	FileOutputStream fileOut = new FileOutputStream(file);
          	ObjectOutputStream out = new ObjectOutputStream(fileOut);
          	out.writeObject(listSavedPerso);
          	out.close();
          	fileOut.close();
          	System.out.println("save on ressource/save.txt");
-         }catch(IOException | URISyntaxException i) {
+         }catch(IOException i) {
             i.printStackTrace();
          }
 	}

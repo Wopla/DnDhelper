@@ -76,21 +76,21 @@ public class Personnage extends GridPane implements Comparable<Personnage>{
 	private void hoverEcouteur(ElementWrapper e) {
 		boolean b = (e != info);
 		e.setOnMouseExited( event ->  {
-			App.ctrlHover=false;
+			FxMain.ctrlHover=false;
 			if(b)
-				App.ctrlH2 = false;
-			App.s.setCursor(Cursor.DEFAULT);
+				FxMain.ctrlH2 = false;
+			FxMain.s.setCursor(Cursor.DEFAULT);
 			e.setHoverOn();
 		});
 		
 		e.setOnMouseEntered( event ->  {
-			App.ctrlHover=true;
+			FxMain.ctrlHover=true;
 			if(b)
-				App.ctrlH2 = true;
+				FxMain.ctrlH2 = true;
 			if(event.isControlDown() || b)
-				App.s.setCursor(Cursor.HAND);
+				FxMain.s.setCursor(Cursor.HAND);
 			else
-				App.s.setCursor(Cursor.CLOSED_HAND);
+				FxMain.s.setCursor(Cursor.CLOSED_HAND);
 			e.setHoverOff();
 		});
 	}

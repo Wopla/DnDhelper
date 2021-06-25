@@ -1,6 +1,6 @@
 package app.popUp;
 
-import app.App;
+import app.FxMain;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.geometry.Pos;
@@ -15,9 +15,9 @@ import javafx.stage.Stage;
 public class NewSave extends Stage{
 	
 	private TextField nomsave;
-	private App main;
+	private FxMain main;
 	
-	public NewSave(App m) {
+	public NewSave(FxMain m) {
 		main = m;
 		nomsave = new TextField();
 		
@@ -38,7 +38,7 @@ public class NewSave extends Stage{
 
 		setScene(new Scene(content,180,100));
 		
-		Image logo = new Image("ressource/DnD_logo.jpg");
+        Image logo = new Image(getClass().getResource("/DnD_logo.jpg").toString());
         getIcons().add(logo);
 	}
 	

@@ -15676,3 +15676,727 @@ java.lang.NullPointerException: null
 2021-06-19 02:29:14,085 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
 2021-06-19 02:29:14,086 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-06-19 02:29:14,086 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:55:18,008 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-19 02:55:28,987 [Worker-3: Launching Executing generate-sources in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 02:55:28,988 [Worker-3: Launching Executing generate-sources in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2021-06-19 02:55:36,430 [Worker-14: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 02:55:36,431 [Worker-14: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-06-19 02:55:38,740 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:55:38,740 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:55:38,743 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:55:38,744 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:55:50,769 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/15.0.1/javafx-controls-15.0.1-sources.jar
+2021-06-19 02:55:52,047 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/15.0.1/javafx-controls-15.0.1-sources.jar
+2021-06-19 02:55:52,106 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-controls:15.0.1
+2021-06-19 02:55:52,112 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-controls:15.0.1:win
+2021-06-19 02:55:52,153 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/15.0.1/javafx-graphics-15.0.1-sources.jar
+2021-06-19 02:55:56,190 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/15.0.1/javafx-graphics-15.0.1-sources.jar
+2021-06-19 02:55:56,233 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-graphics:15.0.1
+2021-06-19 02:55:56,238 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-graphics:15.0.1:win
+2021-06-19 02:55:56,269 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/15.0.1/javafx-base-15.0.1-sources.jar
+2021-06-19 02:55:56,856 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/15.0.1/javafx-base-15.0.1-sources.jar
+2021-06-19 02:55:56,889 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-base:15.0.1
+2021-06-19 02:55:56,894 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.openjfx:javafx-base:15.0.1:win
+2021-06-19 02:55:57,031 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:55:57,031 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:55:57,032 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:55:57,033 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:56:02,168 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:56:02,168 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:56:02,169 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:56:02,170 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:56:07,228 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:56:07,229 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:56:07,230 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:56:07,230 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:56:46,549 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:56:46,551 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:56:46,551 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:56:46,551 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:56:52,358 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:56:52,359 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:56:52,360 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:56:52,360 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:56:58,118 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:56:58,118 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:56:58,127 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:56:58,128 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:57:20,179 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:57:20,179 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:57:20,182 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:57:20,182 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:57:23,653 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:57:23,653 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:57:23,653 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:57:23,654 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:57:27,036 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:57:27,037 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:57:27,037 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:57:27,038 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:57:36,075 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:57:36,075 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:57:36,076 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:57:36,076 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:57:42,884 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:57:42,885 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:57:42,886 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:57:42,886 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:58:13,886 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:58:13,886 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:58:13,887 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:58:13,887 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:58:33,380 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:58:33,381 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:58:33,382 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:58:33,382 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:58:39,466 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:58:39,467 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:58:39,467 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:58:39,467 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:59:02,246 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:02,247 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:59:02,249 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:02,249 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:59:09,186 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:09,186 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:59:09,187 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:09,188 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:59:16,278 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:16,278 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:59:16,279 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:16,279 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:59:20,949 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:20,950 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:59:20,951 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:20,951 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:59:31,631 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:31,631 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:59:31,632 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:31,632 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:59:38,958 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:38,958 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:59:38,959 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:38,959 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 02:59:57,021 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:57,022 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 02:59:57,023 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 02:59:57,023 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 03:00:08,092 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:00:08,092 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 03:00:08,092 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:00:08,093 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 03:00:31,789 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:00:31,789 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 03:00:31,790 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:00:31,791 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 03:00:39,226 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:00:39,227 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 03:00:39,227 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:00:39,228 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 03:00:46,981 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:00:46,982 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 03:00:46,983 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:00:46,983 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 03:00:54,256 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:00:54,256 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 03:00:54,257 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:00:54,257 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 03:01:05,011 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:01:05,011 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 03:01:05,012 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:01:05,013 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 03:01:14,935 [Worker-11: Launching Executing generate-sources in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 03:01:14,935 [Worker-11: Launching Executing generate-sources in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2021-06-19 03:01:20,699 [Worker-10: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 03:01:20,699 [Worker-10: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-06-19 03:01:22,523 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:01:22,524 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 03:01:22,524 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:01:22,525 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 03:01:44,374 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:01:44,374 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 03:01:44,376 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:01:44,376 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 03:01:50,506 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:01:50,507 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 03:01:50,507 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 03:01:50,508 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:28:28,343 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-06-19 15:30:07,841 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:30:07,843 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:30:07,844 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:30:07,844 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:30:11,018 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:30:11,018 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:30:11,019 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:30:11,019 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:30:13,529 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:30:13,529 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:30:13,531 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:30:13,531 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:30:31,650 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:30:31,651 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:30:31,651 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:30:31,652 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:30:33,437 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:30:33,437 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:30:33,438 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:30:33,438 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:30:38,192 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:30:38,192 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:30:38,193 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:30:38,193 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:31:58,084 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:31:58,085 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:31:58,085 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:31:58,085 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:32:42,122 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:32:42,122 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:32:42,124 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:32:42,124 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:32:58,080 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:32:58,080 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:32:58,081 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:32:58,081 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:33:05,776 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:33:05,776 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:33:05,777 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:33:05,778 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:33:07,748 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:33:07,749 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:33:07,749 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:33:07,750 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:33:13,606 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:33:13,607 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:33:13,608 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:33:13,608 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:33:47,880 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:33:47,880 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:33:47,881 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:33:47,881 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:34:04,303 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:34:04,303 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:34:04,304 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:34:04,304 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:34:09,323 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:34:09,323 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:34:09,324 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:34:09,324 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:34:20,431 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:34:20,432 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:34:20,434 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:34:20,434 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:34:33,917 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:34:33,917 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:34:33,918 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:34:33,918 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:34:45,571 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:34:45,572 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:34:45,572 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:34:45,573 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:34:58,210 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:34:58,210 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:34:58,211 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:34:58,211 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:35:03,691 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:35:03,692 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:35:03,693 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:35:03,693 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:35:16,696 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:35:16,696 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:35:16,697 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:35:16,697 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:35:24,611 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:35:24,611 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:35:24,611 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:35:24,612 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:37:57,433 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:37:57,433 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:37:57,434 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:37:57,434 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:38:20,572 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:38:20,572 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:38:20,572 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:38:20,572 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 15:38:26,282 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:38:26,282 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 15:38:26,283 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 15:38:26,283 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:09:29,922 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:09:29,923 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:09:29,924 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:09:29,924 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:09:36,708 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:09:36,708 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:09:36,709 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:09:36,709 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:10:06,286 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:10:06,286 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:10:06,288 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:10:06,288 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:10:22,945 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:10:22,945 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:10:22,946 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:10:22,946 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:10:59,701 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:10:59,701 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:10:59,701 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:10:59,702 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:11:34,409 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:11:34,410 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:11:34,410 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:11:34,410 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:12:01,001 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:12:01,001 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:12:01,002 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:12:01,003 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:12:09,293 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:12:09,293 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:12:09,295 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:12:09,295 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:12:11,845 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:12:11,845 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:12:11,846 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:12:11,846 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:12:26,396 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:12:26,396 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:12:26,396 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:12:26,397 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:12:42,489 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:12:42,489 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:12:42,489 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:12:42,489 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:12:46,585 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:12:46,585 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:12:46,585 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:12:46,586 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:13:02,475 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:13:02,476 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:13:02,476 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:13:02,477 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:13:08,274 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:13:08,274 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:13:08,274 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:13:08,275 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:13:10,348 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:13:10,348 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:13:10,349 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:13:10,350 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:13:31,433 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:13:31,433 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:13:31,434 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:13:31,435 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:13:36,663 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:13:36,663 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:13:36,664 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:13:36,664 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:13:53,581 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:13:53,581 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:13:53,582 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:13:53,582 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:14:04,205 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:14:04,206 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:14:04,206 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:14:04,206 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:14:27,767 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:14:27,767 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:14:27,768 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:14:27,768 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:14:55,135 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:14:55,135 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:14:55,136 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:14:55,136 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:15:03,379 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:15:03,379 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:15:03,380 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:15:03,380 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:16:03,018 [Worker-6: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 16:16:03,019 [Worker-6: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-06-19 16:16:04,830 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:16:04,830 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 16:16:04,831 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 16:16:04,831 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 16:21:52,744 [Worker-24: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CombatTour:DnD:1.0 @ C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\pom.xml.
+2021-06-19 16:22:18,901 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tourParTour:DnD:1.0 @ C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\pom.xml.
+2021-06-19 16:22:22,656 [Worker-26: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/tourParTour/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:798) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$2.call(ProjectRegistryManager.java:1001) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$2.call(ProjectRegistryManager.java:1) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065) ~[na:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) ~[na:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:999) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[org.eclipse.m2e.core.ui_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:740) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1074) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2021-06-19 16:22:22,756 [Worker-29: Building workspace] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) ~[org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:568) ~[org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:537) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:493) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:349) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:296) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...<dependencies>a\r\n\t  <d... @20:6) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114) ~[maven-model-builder-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82) ~[maven-model-builder-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:557) ~[org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...<dependencies>a\r\n\t  <d... @20:6) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1307) ~[plexus-utils-3.1.0.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2231) ~[maven-model-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3852) ~[maven-model-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109) ~[maven-model-builder-3.5.3.jar:3.5.3]
+	... 26 common frames omitted
+2021-06-19 16:22:24,078 [Worker-24: Building workspace] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) ~[org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:568) ~[org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:537) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:493) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:349) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:296) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.300.v20190218-2100.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) [org.eclipse.core.resources_3.13.300.v20190218-2054.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...<dependencies>a\r\n\t  <d... @20:6) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114) ~[maven-model-builder-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82) ~[maven-model-builder-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:557) ~[org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...<dependencies>a\r\n\t  <d... @20:6) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1307) ~[plexus-utils-3.1.0.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2231) ~[maven-model-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3852) ~[maven-model-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.5.3.jar:3.5.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109) ~[maven-model-builder-3.5.3.jar:3.5.3]
+	... 26 common frames omitted
+2021-06-19 16:22:25,401 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tourParTour:DnD:1.0 @ C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\pom.xml.
+2021-06-19 17:32:18,709 [Worker-28: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 17:32:18,709 [Worker-28: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-06-19 17:33:54,254 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-19 17:33:58,914 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:33:58,915 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:33:58,917 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:33:58,918 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:34:00,189 [Worker-1: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 17:34:00,190 [Worker-1: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-06-19 17:34:03,645 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:34:03,645 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:34:03,646 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:34:03,646 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:36:04,532 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:36:04,532 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:36:04,534 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:36:04,534 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:37:12,732 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:37:12,732 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:37:12,733 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:37:12,733 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:37:59,073 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:37:59,073 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:37:59,074 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:37:59,075 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:38:19,330 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:38:19,330 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:38:19,331 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:38:19,331 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:38:25,089 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:38:25,090 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:38:25,090 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:38:25,091 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:38:48,452 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:38:48,452 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:38:48,457 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:38:48,457 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:39:03,590 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:39:03,591 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:39:03,591 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:39:03,591 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:39:06,097 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:39:06,098 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:39:06,099 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:39:06,100 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:39:13,977 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:39:13,977 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:39:13,978 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:39:13,978 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:39:15,662 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:39:15,662 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:39:15,663 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:39:15,663 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:39:23,908 [Worker-0: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 17:39:23,908 [Worker-0: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-06-19 17:39:26,046 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:39:26,047 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:39:26,047 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:39:26,048 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:43:48,026 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:43:48,026 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:43:48,027 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:43:48,027 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:44:14,149 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:44:14,149 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:44:14,150 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:44:14,150 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:44:42,576 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:44:42,576 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:44:42,578 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:44:42,578 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:44:46,449 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:44:46,449 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:44:46,450 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:44:46,450 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:45:41,925 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:45:41,925 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:45:41,926 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:45:41,926 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:45:53,485 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:45:53,485 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:45:53,486 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:45:53,486 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 17:46:20,593 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:46:20,594 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\resources
+2021-06-19 17:46:20,594 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 17:46:20,594 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:18:30,598 [Worker-0: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tourParTour:DnD:1.0 @ C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\pom.xml.
+2021-06-19 19:20:40,558 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tourParTour:DnD:1.0 @ C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\pom.xml.
+2021-06-19 19:20:47,995 [Worker-19: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 19:20:47,996 [Worker-19: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-06-19 19:20:50,008 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:20:50,016 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:20:50,023 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:20:50,023 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:21:41,310 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-19 19:21:49,830 [Worker-7: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 19:21:49,831 [Worker-7: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-06-19 19:21:53,136 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:21:53,141 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:21:53,159 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:21:53,159 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:22:56,231 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:22:56,236 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:22:56,249 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:22:56,249 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:22:59,374 [Worker-14: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 19:22:59,374 [Worker-14: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-06-19 19:23:02,331 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:23:02,333 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:23:02,334 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:23:02,335 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:23:48,768 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:23:48,769 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:23:48,770 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:23:48,771 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:23:52,679 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:23:52,681 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:23:52,683 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:23:52,683 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:24:39,863 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:24:39,863 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-19 19:24:39,864 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:24:39,864 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:24:45,733 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:24:45,734 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-19 19:24:45,738 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:24:45,739 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:24:49,566 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:24:49,566 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\main\java\ressources
+2021-06-19 19:24:49,569 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:24:49,569 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:25:03,251 [Worker-4: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tourParTour:DnD:1.0 @ C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\pom.xml.
+2021-06-19 19:25:30,152 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:25:30,154 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:25:30,170 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:25:30,170 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:25:37,397 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:25:37,398 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:25:37,400 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:25:37,401 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:25:51,197 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-06-19 19:25:51,495 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tourParTour:DnD:1.0 @ C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\pom.xml.
+2021-06-19 19:26:18,093 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:26:18,095 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:26:18,101 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:26:18,101 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:26:28,765 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:26:28,766 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:26:28,768 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:26:28,768 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:27:42,399 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:27:42,400 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:27:42,401 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:27:42,402 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:27:46,217 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:27:46,218 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:27:46,220 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:27:46,220 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:27:54,414 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:27:54,415 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:27:54,416 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:27:54,416 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:28:18,895 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:28:18,896 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:28:18,900 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:28:18,900 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:28:54,124 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:28:54,126 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:28:54,127 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:28:54,127 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:29:05,308 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:05,309 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:29:05,311 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:05,312 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:29:24,822 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:24,823 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:29:24,825 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:24,826 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:29:28,993 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:28,995 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:29:28,996 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:28,996 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:29:33,949 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:33,950 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:29:33,952 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:33,952 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:29:49,557 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:49,558 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:29:49,559 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:49,560 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:29:52,245 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:52,246 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:29:52,248 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:52,248 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:29:56,616 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:56,617 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:29:56,619 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:29:56,619 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:30:02,186 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:30:02,187 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:30:02,189 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:30:02,189 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:30:20,467 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:30:20,468 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:30:20,471 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:30:20,471 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:30:24,294 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:30:24,295 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:30:24,296 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:30:24,297 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:30:36,800 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:30:36,801 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:30:36,803 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:30:36,803 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:30:40,875 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:30:40,876 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:30:40,877 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:30:40,877 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:31:41,437 [Worker-3: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 19:31:41,437 [Worker-3: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-06-19 19:31:44,487 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:31:44,488 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:31:44,491 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:31:44,491 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:32:00,736 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:32:00,737 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-19 19:32:00,737 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:32:00,737 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:32:04,625 [Worker-3: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 19:32:04,625 [Worker-3: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-06-19 19:32:07,576 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:32:07,577 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:32:07,579 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:32:07,579 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:33:17,030 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:33:17,031 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:33:17,032 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:33:17,032 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:33:25,473 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:33:25,475 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:33:25,477 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:33:25,477 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:33:28,580 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:33:28,581 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:33:28,582 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:33:28,582 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:33:33,799 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:33:33,801 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:33:33,802 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:33:33,802 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:33:38,523 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:33:38,524 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:33:38,526 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:33:38,526 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:33:41,706 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:33:41,707 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:33:41,709 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:33:41,709 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:35:24,817 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:35:24,817 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:35:24,819 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:35:24,819 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:36:12,740 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:36:12,742 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:36:12,743 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:36:12,744 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:36:52,155 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:36:52,156 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:36:52,158 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:36:52,158 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:36:58,255 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:36:58,257 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-06-19 19:36:58,258 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:36:58,259 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:38:12,012 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:38:12,012 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-19 19:38:12,013 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:38:12,013 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources
+2021-06-19 19:38:19,211 [Worker-3: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour
+2021-06-19 19:38:19,211 [Worker-3: Launching Executing install in C__Users_Esteban_Documents_DnDhelper_eclipseFolder_tourParTour] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-06-19 19:38:22,156 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:38:22,157 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-06-19 19:38:22,159 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 19:38:22,159 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Esteban\Documents\DnDhelper\eclipseFolder\tourParTour\src\test\resources

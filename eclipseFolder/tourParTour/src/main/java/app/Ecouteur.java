@@ -10,9 +10,9 @@ import javafx.event.EventHandler;
 
 public class Ecouteur {
 
-	private App main;
+	private FxMain main;
 	
-	public Ecouteur(App m) {
+	public Ecouteur(FxMain m) {
 		main = m;
 	}
     

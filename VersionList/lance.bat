@@ -1,1 +1,0 @@
-start javaw -jar DnD-1.0.jar

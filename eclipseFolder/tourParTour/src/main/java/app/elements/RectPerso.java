@@ -1,6 +1,6 @@
 package app.elements;
 
-import app.App;
+import app.FxMain;
 import javafx.geometry.Pos;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
@@ -34,7 +34,7 @@ public class RectPerso extends ElementWrapper{
 		
 		GridPane gArmor = new GridPane();
 		Label lArmor = new Label(" : "+ca);
-		ImageView logoArmor = new ImageView(new Image("ressource/chestplate.png"));
+        ImageView logoArmor = new ImageView(new Image(getClass().getResource("/chestplate.png").toString()));
 		logoArmor.setFitWidth(30);
 		logoArmor.setFitHeight(30);
 		gArmor.add(logoArmor, 0, 0);
@@ -43,7 +43,7 @@ public class RectPerso extends ElementWrapper{
 		
         GridPane gPv = new GridPane();
 		Label lPv = new Label(" : "+pv);
-		ImageView logoPv = new ImageView(new Image("ressource/heart.png"));
+        ImageView logoPv = new ImageView(new Image(getClass().getResource("/heart.png").toString()));
 		logoPv.setFitWidth(30);
 		logoPv.setFitHeight(30);
 		gPv.add(logoPv, 0, 0);
@@ -123,7 +123,7 @@ public class RectPerso extends ElementWrapper{
 
 	public int getIni() {
 		int ini = 0;
-		if (App.isNumeric(iniField.getText()))
+		if (FxMain.isNumeric(iniField.getText()))
 			ini =Integer.parseInt(iniField.getText());
 		else
 			iniField.setText("0");
